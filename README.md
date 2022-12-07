@@ -12,7 +12,7 @@ choco install awscli -y
 choco install vscode -y
 choco install visualstudio2022enterprise -y
 choco install resharper -y
-
+choco install fiddler -y
 choco install adblockplus-firefox -y
 choco install docker-desktop -y
 choco install slack -y
